@@ -2,3 +2,16 @@ h1 {
     text-align: center;
     color: pink
 }
+
+p {
+    color: red;
+    font-size: 50px;
+    text-align: center;
+}
+
+div {
+    background-color: orange;
+    position: fixed;
+    right: 50px;
+    bottom: 20px
+}
